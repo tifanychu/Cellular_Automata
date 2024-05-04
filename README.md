@@ -5,6 +5,15 @@ Creators: Qi Tifany Chu, Sean Bray, and Elizabeth Gilson
 Date Created: December, 2023
 Directory Path: 274B_final_project/
 
+## Introduction
+
+Created a general-purpose Cellular Automata (CA) Library 
+
+Implemented a two-dimensional CA Application that mimics the spread of pests in crops. 
+
+Purpose of our application is to allow farmers to find the optimal density in which to plant crops to minimize the risk of pest spread. 
+
+## Contents:
 This is the main directory for the Cellular Automata Application. 
 
 LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
