@@ -1,15 +1,11 @@
-# University of California, Berkeley
-# Chem 274B: Software Engineering Fundamentals for Molecular Sciences 
 
+# Cellular Automata 
 
-# 274B_final_project
-
-## Tifany's version: 
 Creators: Qi Tifany Chu, Sean Bray, and Elizabeth Gilson
 Date Created: December, 2023
 Directory Path: 274B_final_project/
 
-This is the main directory for the Chem274B Final Project Assigment.
+This is the main directory for the Cellular Automata Application. 
 
 LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
 - Bin/ 
